@@ -2,6 +2,15 @@
 
 
 
+## v0.0.1 (2024-02-22)
+
+### Fix
+
+* fix: update actions to get tags ([`7888763`](https://github.com/PetitLepton/test-semantic-versioning/commit/78887635a758ad2d07b978d90ca8e2f0b1086da0))
+
+* fix: update actions to get tags ([`4f4ea7c`](https://github.com/PetitLepton/test-semantic-versioning/commit/4f4ea7c2a01be8a1c5b90d6938f4b67fc2a5a2a8))
+
+
 ## v0.0.0 (2024-02-22)
 
 ### Chore
