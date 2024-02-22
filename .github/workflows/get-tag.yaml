@@ -1,0 +1,19 @@
+name: Get tag
+
+on:
+  push:
+    tags:
+        - v*
+
+jobs:
+  release:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+
+      - name: Get commit hash
+        id: compute_ref
+        run: |
+          REF=${GITHUB_REF#refs/tags/}
+          echo "REF=$REF"
