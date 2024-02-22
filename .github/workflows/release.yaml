@@ -21,6 +21,6 @@ jobs:
 
       - name: Get version
         env:
-          OUTPUTS: ${{join(steps.semantic_release.outputs.*, '\n')}}
+          OUTPUTS: ${{steps.semantic_release.outputs.version}}
         run: |
             echo $OUTPUTS
