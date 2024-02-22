@@ -1,4 +1,4 @@
-name: Release and deploy to production
+name: Release 
 
 on:
   workflow_dispatch:
@@ -18,9 +18,4 @@ jobs:
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Get commit hash
-        id: compute_ref
-        run: |
-          REF=${GITHUB_REF#refs/tags/}
-          echo "REF=$REF"
 
