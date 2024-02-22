@@ -2,6 +2,13 @@
 
 
 
+## v0.2.2 (2024-02-22)
+
+### Fix
+
+* fix: update action ([`d0a8a3b`](https://github.com/PetitLepton/test-semantic-versioning/commit/d0a8a3b027be2805d4ac890e46cb315cd37e9e32))
+
+
 ## v0.2.1 (2024-02-22)
 
 ### Fix
