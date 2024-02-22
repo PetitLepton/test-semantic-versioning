@@ -2,7 +2,14 @@
 
 
 
-## v0.2.0 (2024-02-22)
+## v0.2.1 (2024-02-22)
+
+### Fix
+
+* fix: test version print ([`239543c`](https://github.com/PetitLepton/test-semantic-versioning/commit/239543c463cf396574dfca3e9c9a47141a2c34dd))
+
+
+## v0.3.0 (2024-02-22)
 
 ### Feature
 
