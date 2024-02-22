@@ -3,7 +3,7 @@ name: Get tag
 on:
   push:
     tags:
-        - v*
+        - '*'
 
 jobs:
   release:
