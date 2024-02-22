@@ -2,6 +2,13 @@
 
 
 
+## v0.2.0 (2024-02-22)
+
+### Feature
+
+* feat: move action to release ([`6391d4c`](https://github.com/PetitLepton/test-semantic-versioning/commit/6391d4ceda3baaa0004cd47f4811128f5b57c597))
+
+
 ## v0.1.0 (2024-02-22)
 
 ### Feature
