@@ -1,12 +1,11 @@
 name: Get tag
 
 on:
-  push:
-    tags:
-        - '*'
+  release:
+    types: [published]
 
 jobs:
-  release:
+  get-tag:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
