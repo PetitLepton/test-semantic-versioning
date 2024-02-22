@@ -2,7 +2,28 @@
 
 
 
-## v0.0.1 (2024-02-22)
+## v0.1.0 (2024-02-22)
+
+### Feature
+
+* feat: add empty file ([`c4a426f`](https://github.com/PetitLepton/test-semantic-versioning/commit/c4a426f8c4adc8a7afa1ec201c6b2bca7da192c8))
+
+### Fix
+
+* fix: update actions to get tags ([`060af84`](https://github.com/PetitLepton/test-semantic-versioning/commit/060af845d1ddc82bf14696e830f5ad0b09ba257f))
+
+### Unknown
+
+* Merge pull request #4 from PetitLepton:feat/test
+
+feat: add empty file ([`0cb3d23`](https://github.com/PetitLepton/test-semantic-versioning/commit/0cb3d23960b0e37ee9a89e82a7a3120fac1fd24a))
+
+* Merge pull request #3 from PetitLepton:fix/update-action
+
+fix: update actions to get tags ([`7f0dc60`](https://github.com/PetitLepton/test-semantic-versioning/commit/7f0dc60e8212ba47dcbf08a3106a591119202410))
+
+
+## v0.0.2 (2024-02-22)
 
 ### Fix
 
